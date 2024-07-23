@@ -2,7 +2,7 @@ import React from "react";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
-import { Globe, Mail, Phone, Send } from "lucide-react";
+import { Globe, Phone, Send } from "lucide-react";
 import ContactIcon from "@/components/common/contact-icon";
 import { Link } from "@tanstack/react-router";
 
